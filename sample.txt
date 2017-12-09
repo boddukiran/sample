@@ -12,3 +12,5 @@ git push -u origin master - push local project to github (ask github credentials
 git push origin <my-new-branch-name> - push the branch to github
 git pull origin master - get the recent changes from github
 git log - to see all commits
+
+from branch server
