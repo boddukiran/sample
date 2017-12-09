@@ -1,3 +1,14 @@
-Hello this is my first file in the git
-this is my second like
-this is my new branch
+
+git init - for initilizing the git for a particular folder
+git status - get the status modified files in folder
+git add <filename> - add files to the stagging (before commit)
+git commit -m <commit text> - commit files to master
+git checkout -b <new-branch-name> - create a new branch for the folder
+git branch - know the current branch
+git checkout <branch-name> - shift to the branches
+git pull - pull all the changes from branch to master
+git remote add origin <https://github.com/boddukiran/sample.git> - add local repo to github
+git push -u origin master - push local project to github (ask github credentials for the first time)
+git push origin <my-new-branch-name> - push the branch to github
+git pull origin master - get the recent changes from github
+git log - to see all commits
